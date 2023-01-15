@@ -1,3 +1,14 @@
 
 /* class used */
 /* .tbl */
+
+table {
+  width: 50%;
+}
+
+table, th, td {
+  border: 1px solid #333f48;
+  border-collapse: collapse;
+  color: #BF5700;
+
+}
