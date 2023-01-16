@@ -2,8 +2,9 @@
 /* class used */
 /* .tbl */
 
-table {
-  width: 50%;
+.tbl {
+  height: 700px;
+  width: 800px;
 }
 
 table, th, td {
