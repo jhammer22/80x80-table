@@ -2,10 +2,18 @@
 /* class used */
 /* .tbl */
 
-.tbl {
-  height: 700px;
-  width: 800px;
+main {
+  max-height: 700px;
+  max-width: 800px;
+  overflow: scroll;
 }
+
+/* .score-table {
+  display: flex;
+  flex-wrap: nowrap;
+  max-height: 700px;
+  max-width: 800px;
+} */
 
 table, th, td {
   border: 1px solid #333f48;
