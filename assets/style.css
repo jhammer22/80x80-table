@@ -3,21 +3,23 @@
 /* .tbl */
 
 main {
+  
   max-height: 700px;
-  max-width: 800px;
+  width: 85%;
   overflow: scroll;
+  margin: 25px;
+  
 }
 
-/* .score-table {
-  display: flex;
-  flex-wrap: nowrap;
-  max-height: 700px;
-  max-width: 800px;
-} */
 
 table, th, td {
+  
   border: 1px solid #333f48;
   border-collapse: collapse;
   color: #BF5700;
+  display: table-cell;
 
 }
+
+
+
