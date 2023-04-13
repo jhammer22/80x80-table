@@ -2,9 +2,19 @@
 
 ## User Story
 
-This table was created as part of a project for UT austin Full Stack coding bootcamp and serves as a template to build upon for any other projects
+```md
+This table was created as starter code for two different projects for UT austin Full Stack coding boot camp. JavaScript was used in the project to fill individual cell's with color based on data obtained from an API call. Each row and column has a unique id and class and can be modified based on the projects needs.
+```
 
 ## Table of Contents
+
+[Images](#images)
+
+[Projects-Used-In](#projects-table-is-used-in)
+
+[License](#license)
+
+[Language-and-Tools](#language-and-tools)
 
 ## Images
 
