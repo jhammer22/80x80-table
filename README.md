@@ -2,9 +2,9 @@
 
 ## User Story
 
-```md
+
 This table was created as starter code for two different projects for UT austin Full Stack coding boot camp. JavaScript was used in the project to fill individual cell's with color based on data obtained from an API call. Each row and column has a unique id and class and can be modified based on the projects needs.
-```
+
 
 ## Table of Contents
 
@@ -18,9 +18,9 @@ This table was created as starter code for two different projects for UT austin 
 
 ## Images
 
-```md
+
 The first image is starter code from this repo, second image is the first project it was used in. The third image is from the second project that a hover effect was added and the scroll bar was removed from the table. Both projects are linked below.
-```
+
 <img src="./assets/images/original.jpeg">
 <img src="./assets/images/scorigami.jpeg">
 <img src="./assets/images/scororama.jpeg">
